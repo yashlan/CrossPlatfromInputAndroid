@@ -1,2 +1,2 @@
 # CrossPlatromInputAndroid
-plugin butto input android
+plugin button input android
